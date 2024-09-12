@@ -1,4 +1,4 @@
-#Cryptocurrency Website
+# Cryptocurrency Website
 This project is a simple cryptocurrency exchange webpage. The website is responsive, meaning it works on both desktop and mobile devices. It includes a light/dark mode toggle feature as well.
 <h3>Features</h3>
 1-Light and dark theme toggle with an icon change.2
